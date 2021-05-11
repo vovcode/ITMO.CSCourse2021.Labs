@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02.Ex1_BankAccount", "La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02.Ex2_StructType", "Lab02.Ex2_StructType\Lab02.Ex2_StructType.csproj", "{7B9594D6-1EDB-4079-9726-EC0A61DF0D0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02.Ex3_StructType", "Lab02.Ex3_StructType\Lab02.Ex3_StructType.csproj", "{48E8889A-9244-48CC-A9A2-83323AD18100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7B9594D6-1EDB-4079-9726-EC0A61DF0D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B9594D6-1EDB-4079-9726-EC0A61DF0D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B9594D6-1EDB-4079-9726-EC0A61DF0D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E8889A-9244-48CC-A9A2-83323AD18100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E8889A-9244-48CC-A9A2-83323AD18100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E8889A-9244-48CC-A9A2-83323AD18100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E8889A-9244-48CC-A9A2-83323AD18100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
