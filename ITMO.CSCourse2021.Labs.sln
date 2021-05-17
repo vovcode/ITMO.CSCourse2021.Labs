@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Ex2_Utils", "Lab07.Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Ex3_CopyFileUpper", "Lab07.Ex3_CopyFileUpper\Lab07.Ex3_CopyFileUpper.csproj", "{C062F2C3-BF44-40A1-B5C9-59A73FC0DFF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Ex4_InterfaceTest", "Lab07.Ex4_InterfaceTest\Lab07.Ex4_InterfaceTest.csproj", "{36F031F5-8329-4B49-B58F-64E22792B4D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{C062F2C3-BF44-40A1-B5C9-59A73FC0DFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C062F2C3-BF44-40A1-B5C9-59A73FC0DFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C062F2C3-BF44-40A1-B5C9-59A73FC0DFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F031F5-8329-4B49-B58F-64E22792B4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F031F5-8329-4B49-B58F-64E22792B4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F031F5-8329-4B49-B58F-64E22792B4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F031F5-8329-4B49-B58F-64E22792B4D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
