@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04.Ex3_Utils", "Lab04.Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.Ex1_FileDetails", "Lab05.Ex1_FileDetails\Lab05.Ex1_FileDetails.csproj", "{D96E672B-D658-4416-91EC-2CBA76FF785A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.Ex2_MatrixMultiply", "Lab05.Ex2_MatrixMultiply\Lab05.Ex2_MatrixMultiply.csproj", "{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{D96E672B-D658-4416-91EC-2CBA76FF785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D96E672B-D658-4416-91EC-2CBA76FF785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D96E672B-D658-4416-91EC-2CBA76FF785A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
