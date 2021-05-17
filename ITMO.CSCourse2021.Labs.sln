@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06.Ex1_CreateAccount", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06.Ex2_UniqueNumbers", "Lab06.Ex2_UniqueNumbers\Lab06.Ex2_UniqueNumbers.csproj", "{73B84CBB-5A5B-463E-9A1F-2B6AEBEBFD91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06.Ex3_MoreMethods", "Lab06.Ex3_MoreMethods\Lab06.Ex3_MoreMethods.csproj", "{F2C88C93-FC99-4E35-98C4-103247660EA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{73B84CBB-5A5B-463E-9A1F-2B6AEBEBFD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B84CBB-5A5B-463E-9A1F-2B6AEBEBFD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73B84CBB-5A5B-463E-9A1F-2B6AEBEBFD91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C88C93-FC99-4E35-98C4-103247660EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C88C93-FC99-4E35-98C4-103247660EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C88C93-FC99-4E35-98C4-103247660EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C88C93-FC99-4E35-98C4-103247660EA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
