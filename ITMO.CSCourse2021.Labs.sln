@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.Ex1_FileDetails", "La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.Ex2_MatrixMultiply", "Lab05.Ex2_MatrixMultiply\Lab05.Ex2_MatrixMultiply.csproj", "{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06.Ex1_CreateAccount", "Lab06.Ex1_CreateAccount\Lab06.Ex1_CreateAccount.csproj", "{2E2A3757-210C-4ACB-B3A2-85909CDB1930}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A053EF1-35EA-4C2B-BD09-60F5F73B68C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2A3757-210C-4ACB-B3A2-85909CDB1930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2A3757-210C-4ACB-B3A2-85909CDB1930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2A3757-210C-4ACB-B3A2-85909CDB1930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2A3757-210C-4ACB-B3A2-85909CDB1930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
