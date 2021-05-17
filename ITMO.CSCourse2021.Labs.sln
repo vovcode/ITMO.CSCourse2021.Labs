@@ -39,8 +39,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Ex1_Bank", "Lab07.Ex1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Ex2_Utils", "Lab07.Ex2_Utils\Lab07.Ex2_Utils.csproj", "{05E60307-7FDF-4233-AF90-630E11179D1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Ex3_ CopyFileUpper", "Lab07.Ex3_ CopyFileUpper\Lab07.Ex3_ CopyFileUpper.csproj", "{CAC4A07C-680A-40D0-98B8-2950F5ACB141}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,10 +117,6 @@ Global
 		{05E60307-7FDF-4233-AF90-630E11179D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E60307-7FDF-4233-AF90-630E11179D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E60307-7FDF-4233-AF90-630E11179D1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CAC4A07C-680A-40D0-98B8-2950F5ACB141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAC4A07C-680A-40D0-98B8-2950F5ACB141}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAC4A07C-680A-40D0-98B8-2950F5ACB141}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAC4A07C-680A-40D0-98B8-2950F5ACB141}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
