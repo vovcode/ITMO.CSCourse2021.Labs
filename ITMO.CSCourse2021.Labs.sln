@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Ex4_InterfaceTest", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Ex5_TestDisplay", "Lab07.Ex5_TestDisplay\Lab07.Ex5_TestDisplay.csproj", "{69990A43-2EDE-4A0F-BEDF-4156C1F8C8A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08.Ex1_Constructors", "Lab08.Ex1_Constructors\Lab08.Ex1_Constructors.csproj", "{ED2970D8-9FC8-48DE-B15C-E006B1F72329}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{69990A43-2EDE-4A0F-BEDF-4156C1F8C8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69990A43-2EDE-4A0F-BEDF-4156C1F8C8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69990A43-2EDE-4A0F-BEDF-4156C1F8C8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2970D8-9FC8-48DE-B15C-E006B1F72329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2970D8-9FC8-48DE-B15C-E006B1F72329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2970D8-9FC8-48DE-B15C-E006B1F72329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2970D8-9FC8-48DE-B15C-E006B1F72329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
