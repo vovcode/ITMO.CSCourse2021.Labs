@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab06.Ex1_CreateAccount
+namespace Lab06.Ex2_UniqueNumbers
 {
     class CreateAccount
     {
@@ -15,17 +15,15 @@ namespace Lab06.Ex1_CreateAccount
 
             BankAccount freds = NewBankAccount();
             Write(freds);
-
-            Console.ReadKey(); // Для удобства проверки
-
+            Console.ReadKey(); //Для удобства проверки
         }
 
         static BankAccount NewBankAccount()
         {
             BankAccount created = new BankAccount();
 
-            Console.Write("Enter the account number   : ");
-            long number = long.Parse(Console.ReadLine());
+            //Console.Write("Enter the account number   : ");
+            //long number = BankAccount.NextNumber();
 
             Console.Write("Enter the account balance! : ");
             decimal balance = decimal.Parse(Console.ReadLine());
@@ -33,7 +31,7 @@ namespace Lab06.Ex1_CreateAccount
             //created.accNo = number;
             //created.accBal = balance;
             //created.accType = AccountType.Checking;
-            created.Populate(number, balance);
+            created.Populate(balance);
 
             return created;
         }
@@ -44,6 +42,5 @@ namespace Lab06.Ex1_CreateAccount
             Console.WriteLine("Account balance is {0}", toWrite.Balance());
             Console.WriteLine("Account type is {0}", toWrite.Type());
         }
-        
     }
 }
